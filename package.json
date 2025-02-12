@@ -9,6 +9,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
+    "predeploy": "nmp run build",
     "deploy": "gh-phages -d build"
   },
   "homepage": "https://github.com/Bruce-Henderson/COMP2156",

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bruce-Henderson/COMP2156/static/css/main.27ca76a1.css",
+    "main.js": "/Bruce-Henderson/COMP2156/static/js/main.f7ffb690.js",
+    "static/js/453.f27d8bf6.chunk.js": "/Bruce-Henderson/COMP2156/static/js/453.f27d8bf6.chunk.js",
+    "index.html": "/Bruce-Henderson/COMP2156/index.html",
+    "main.27ca76a1.css.map": "/Bruce-Henderson/COMP2156/static/css/main.27ca76a1.css.map",
+    "main.f7ffb690.js.map": "/Bruce-Henderson/COMP2156/static/js/main.f7ffb690.js.map",
+    "453.f27d8bf6.chunk.js.map": "/Bruce-Henderson/COMP2156/static/js/453.f27d8bf6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ca76a1.css",
+    "static/js/main.f7ffb690.js"
+  ]
+}

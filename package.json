@@ -14,7 +14,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/Bruce-Henderson/COMP2156",
+  "homepage": "https://Bruce-Henderson.github.io/COMP2156",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Bruce-Henderson/COMP2156.git"
